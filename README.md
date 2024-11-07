@@ -34,7 +34,7 @@
 
 Create two files: `data.txt` and `proxy.txt`
 
-For those using multiple accounts, it's recommended to use a proxy (if using only one account, there's no need to create the proxy.txt file).
+For those using multiple accounts, it's recommended to use a proxy (if using only one account, there's no need to create the `proxy.txt` file).
 
 ---
 
