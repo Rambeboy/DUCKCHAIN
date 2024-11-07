@@ -77,7 +77,7 @@ socks5://username:password@hostname:port
 
 - Proxy
   ```bash
-  node duck-proxy.js
+  node main-proxy.js
   ```
 
   ---
