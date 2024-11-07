@@ -50,8 +50,10 @@ socks5://username:password@hostname:port
 # GET DATA
 
 - In the `data.txt` file, you need to have the following format:
-
-query_id=xxx or user=xxxx
+  ```bash
+  query_id=xxx
+  user=xxxx
+  ```
 
 - In the `auth.txt` and `wallet.txt` file:
 
@@ -66,6 +68,7 @@ query_id=xxx or user=xxxx
 - Faucet
   ```bash
   node faucet.js
+  ```
 
 - No Proxy
   ```bash
